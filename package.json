@@ -2,7 +2,7 @@
   "name": "react-modal",
   "version": "2.2.2",
   "description": "Accessible modal dialog component for React.JS",
-  "main": "./lib/index.js",
+  "main": "./dist/react-modal.min.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/reactjs/react-modal.git"
